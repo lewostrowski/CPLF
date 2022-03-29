@@ -1,5 +1,5 @@
 # CPLF
-Copy the last modified (downloaded) file form ~/Downloads to a working directory. 
+Copy the last modified (downloaded) file form ~/Downloads to a working directory. Bash/zsh compatible.
 
 #filemanagment #automation
 
